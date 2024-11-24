@@ -1,0 +1,92 @@
+[
+    {
+        "instruction": "LOAD_CONST 0 78",
+        "bytes": [
+            "85",
+            "13",
+            "00"
+        ]
+    },
+    {
+        "instruction": "LOAD_CONST 1 100",
+        "bytes": [
+            "0d",
+            "19",
+            "00"
+        ]
+    },
+    {
+        "instruction": "LOAD_CONST 2 150",
+        "bytes": [
+            "95",
+            "25",
+            "00"
+        ]
+    },
+    {
+        "instruction": "LOAD_CONST 3 175",
+        "bytes": [
+            "dd",
+            "2b",
+            "00"
+        ]
+    },
+    {
+        "instruction": "LOAD_CONST 4 215",
+        "bytes": [
+            "e5",
+            "35",
+            "00"
+        ]
+    },
+    {
+        "instruction": "LOAD_CONST 5 241",
+        "bytes": [
+            "6d",
+            "3c",
+            "00"
+        ]
+    },
+    {
+        "instruction": "STORE_MEM 0 0",
+        "bytes": [
+            "02",
+            "00"
+        ]
+    },
+    {
+        "instruction": "MOD 1 0",
+        "bytes": [
+            "08",
+            "00"
+        ]
+    },
+    {
+        "instruction": "MOD 2 0",
+        "bytes": [
+            "10",
+            "00"
+        ]
+    },
+    {
+        "instruction": "MOD 3 0",
+        "bytes": [
+            "18",
+            "00"
+        ]
+    },
+    {
+        "instruction": "MOD 4 0",
+        "bytes": [
+            "20",
+            "00"
+        ]
+    },
+    {
+        "instruction": "MOD 5 0",
+        "bytes": [
+            "28",
+            "00"
+        ]
+    }
+]
