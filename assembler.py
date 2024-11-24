@@ -82,7 +82,7 @@ def main():
     bin_path = sys.argv[2]
     log_path = sys.argv[3]
     if len(sys.argv) != 4:
-        print("Использование: python interpreter.py <bin_file> <result_file> <memory_range>")
+        print("Использование: python assembler.py <source_file> <bin_file> <log_file>")
     if not os.path.exists(source_path):
         print(f"Файл {source_path} не существует")
         exit(1)
